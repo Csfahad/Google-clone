@@ -15,9 +15,6 @@
 # production
 /build
 
-#keys
-keys.js
-
 # misc
 .DS_Store
 *.pem
